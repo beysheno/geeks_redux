@@ -1,0 +1,15 @@
+.character-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    background-color: #f9f9f9;
+
+}
+.character-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+.character-card h3 {
+    margin: 8px 0;
+}
